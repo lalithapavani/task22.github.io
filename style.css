@@ -1,0 +1,52 @@
+body 
+{
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3
+{
+    font-size: 10px;
+    color: 	rgb(140, 223, 248);
+    padding: 20px 20px;
+    text-align: center;
+}    
+h5
+{
+    font-size: 10px;
+    color: 	rgb(255, 144, 227);
+    padding: 20px 20px;
+    text-align: center;
+} 
+.container
+{
+    width: 100%;
+    margin-top: 5%;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
+.row
+{
+    margin-top: 30px;
+}
+.product-bottom h6
+{    
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(139, 170, 255);
+}
+.overlay
+{
+    display: block;
+    opacity: 0;
+    position: absolute;
+    top: 10%;
+    margin-left: 0;
+    width: 70px;
+}
+img
+{
+    display: inline-block;
+    margin: 25px 10px;
+}
+
